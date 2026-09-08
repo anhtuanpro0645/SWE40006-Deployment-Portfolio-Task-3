@@ -36,8 +36,6 @@ scripts/
   04-alb-siteurl-update.sh         # Task 3.3 - point WordPress site URL at the ALB DNS name
   05-loadbalancing-verification.sh # Task 3.3 - per-instance marker files to prove ALB round-robin
   06-aws-cli-verification.sh       # Task 3.2-3.4 - AWS CLI commands used to verify each resource
-diagrams/
-  architecture.png                 # Full target architecture diagram (Task 3.1 -> 3.4)
 ```
 
 ## Live verification (for grading)
