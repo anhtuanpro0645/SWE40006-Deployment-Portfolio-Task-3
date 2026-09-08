@@ -40,9 +40,9 @@ scripts/
 
 ## Live verification (for grading)
 
-- **Application Load Balancer DNS name:** `swe40006-alb-2043040907.us-east-1.elb.amazonaws.com`
-- Access the site at: `http://swe40006-alb-2043040907.us-east-1.elb.amazonaws.com/`
-- Load-balancing proof endpoint: `http://swe40006-alb-2043040907.us-east-1.elb.amazonaws.com/whoami.html` (refresh a few times - response alternates between the two Auto Scaling Group instances)
+- **Application Load Balancer DNS name:** `Provided in Report`
+- Access the site at: `Provided in Report/`
+- Load-balancing proof endpoint: `Provided in Report` (refresh a few times - response alternates between the two Auto Scaling Group instances)
 
 > Note: as this is a personal/free-tier AWS account, resources may be terminated after the
 > submission window to avoid ongoing charges. If the lecturer needs a live re-demonstration
